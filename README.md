@@ -37,4 +37,4 @@ The project is built using **PHP, MySQL, and HTML/CSS** and is fully responsive 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/bloodline.git
+git clone https://github.com/simantapundori/bloodline.git
